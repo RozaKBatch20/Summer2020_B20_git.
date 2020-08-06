@@ -7,6 +7,8 @@ public class GitFun {
         System.out.println("Everything is Fun");
 
 
+        
+        // this line is from GitHub
     }
 
 }
