@@ -14,6 +14,9 @@ public class ZombieAttack {
             }
 
             // changes made
+
+            // more changes added
+
             //TODO. Write you code below this line.
             int cnt = 0, sum = 0;
             int[] num1 = new int[inhabitants.length];
